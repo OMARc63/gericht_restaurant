@@ -6,7 +6,7 @@ import "./AboutUs.css";
 const AboutUs = () => (
   <div
     className="app__aboutus section__padding flex__center app__bg"
-    id="#about"
+    id="about"
   >
     <div className="app__aboutus-overlay flex__center">
       <img src={images.G} alt="big G" />
